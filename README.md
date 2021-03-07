@@ -2,7 +2,7 @@
 
 ![Diegos's github stats](https://github-readme-stats.vercel.app/api?username=polaroidz&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polaroidz&theme=dracula&layout=compact)](https://github.com/evemontalvao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polaroidz&theme=dracula&layout=compact&langs_count=10&hide=css,html,jupyter%20notebook,javascript,php)](https://github.com/evemontalvao/github-readme-stats)
 
 <!--
 **polaroidz/polaroidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
