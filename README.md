@@ -2,7 +2,7 @@
 
 🔭 I’m currently looking for work 
 
-🌱 And, I’m currently learning a lot about statistics, MATHS :heart:, data science and applied sciences. <!-- Also, pursuing my superior education in Math & Statistics at Universidade de São Paulo (USP), Brazil. -->
+🌱 And, I’m currently learning a lot about statistics, MATHS :heart:, data science and applied sciences. <!-- Also, pursuing my superior education in Math & Statistics at Universidade de São Paulo (USP), Brazil.  -->
 
 💬 Ask me about:
 - any of those topics and would love to chat with you :)
