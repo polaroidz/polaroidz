@@ -25,7 +25,7 @@
 - cel: +55 (11) 97710-6812
 
 ⚡ Fun fact: 
-- **The more I study the less I know hehe**. But I was very into Deep Learning in 2017 and haven't touch on it since. What do you think about the technology? Would love to know :)
+- **The more I study the less I know hehe**
 - 我想学中文 
 - "Loving and changing things interests me a lot more than any theory" - Belchior, Alucinação
 
