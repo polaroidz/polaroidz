@@ -26,7 +26,6 @@
 
 ⚡ Fun fact: 
 - **The more I study the less I know hehe**
-- 我想学中文 
 - "Loving and changing things interests me a lot more than any theory" - Belchior, Alucinação
 
 
