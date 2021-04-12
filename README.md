@@ -12,8 +12,6 @@
 
 🤔 I’m looking for help with starting a career in Statistics but my CV is very focused in Software Development and Data Egineering at the moment. So, if you could help me with that would be amazing!
 
-![Diegos's github stats](https://github-readme-stats.vercel.app/api?username=polaroidz&show_icons=true&theme=dracula)
-
 😄 Pronouns: he/him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polaroidz&theme=dracula&layout=compact&langs_count=10&hide=css,html,jupyter%20notebook,javascript,php)](https://github.com/evemontalvao/github-readme-stats)
