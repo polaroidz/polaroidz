@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-🔭 I’m currently looking for work 
-
-🌱 And, I’m currently learning a lot about statistics, MATHS :heart: and applied sciences. Also, pursuing my superior education in Statistics at Universidade de São Paulo (USP), Brazil.
+🌱 I’m currently learning a lot about statistics, MATHS :heart: and applied sciences. Also, pursuing my superior education in Statistics at Universidade de São Paulo (USP), Brazil.
 
 💬 Ask me about:
 - any of those topics and would love to chat with you :)
