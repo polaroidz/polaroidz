@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on social projects and open scientific research
 
-🤔 I’m looking for help with starting a career in Statistics but my CV is very focused in Software Development and Data Egineering at the moment. So, if you could help me with that would be amazing!
+<!-- 🤔 I’m looking for help with starting a career in Statistics but my CV is very focused in Software Development and Data Egineering at the moment. So, if you could help me with that would be amazing! -->
 
 😄 Pronouns: he/him
 
